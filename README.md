@@ -1,4 +1,4 @@
-# NFT Minting Bot
+# NFT Mint Bot
 This repo contains two examples on how custom smart contract can be used to **mass mint NFTs in a single transaction**
 
 ## Technology Stack & Tools
@@ -33,8 +33,5 @@ MNEMONIC="<your-twelve-word-mneomonic-here>"
 ## Set up
 
 ## Running the bot in a local test envrionment
-
-## Contribution
-If you find any issues or ways that this methodolgy could be improved create a pull request and it will be merged into the main branch if accepted.
 
 *This repo has been created for educational purposes and as a tool for myself and others to learn how to implement various web3 tools to conduct tasks such as writing/deploying/testing/interacting with smart contracts. **I do not endorse the usage of bots to gain an unfair advantage over regular onchain users.***
